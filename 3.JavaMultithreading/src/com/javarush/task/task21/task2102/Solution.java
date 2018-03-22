@@ -26,6 +26,8 @@ public class Solution {
             if (method.getName().equalsIgnoreCase("main")) return method;
         }
 
+        ///изменения
+
         return null;
     }
 }
